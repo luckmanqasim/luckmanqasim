@@ -34,7 +34,7 @@ Parallel data ingestion & preprocessing of **160,000+** PDB/mmCIF files, achievi
 | Resource | Description |
 | :--- | :--- |
 | **[ProS²Vi](https://github.com/Alisaraie-Group/ProS2Vi)** | *Published Tool* – Python-based protein secondary structure visualization (featured in CSBJ). |
-| **[PDBpepDS]([https://zenodo.org/records/13625563](https://github.com/Alisaraie-Group/PDBpepDS))** | *Dataset* – Curated peptide descriptors extracted from the full RCSB repository. |
+| **[PDBpepDS](https://github.com/Alisaraie-Group/PDBpepDS)** | *Dataset* – Curated peptide descriptors extracted from the full RCSB repository. |
 
 ---
 
