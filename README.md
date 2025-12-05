@@ -27,12 +27,6 @@ Boosted handwritten OCR accuracy from **<10% → >90%** using fine-tuned Microso
 ### **⚙️ High-Volume Protein Pipeline**
 Parallel data ingestion & preprocessing of **160,000+** PDB/mmCIF files, achieving **8× speed improvement**.
 
-### **🛠 Full-Stack Config Management Tool**
-Production-grade React + C# + SQL platform deployed via Azure DevOps to streamline engineering workflows.
-
-### **🔍 Model QA for CAD Workflows**
-Developing AI evaluation frameworks to detect LLM hallucinations and enforce engineering compliance standards.
-
 ---
 
 ## 📚 Publications & Datasets
